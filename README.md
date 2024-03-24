@@ -1,5 +1,4 @@
 ### *"Hello There!"* 👋 <br>
-![](https://tenor.com/blgXw.gif)
 
 🇧🇷
 ### __Bem-vindo(a) ao meu Perfil do GitHub!__ 😄 <br>
