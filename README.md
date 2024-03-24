@@ -22,7 +22,7 @@
 
 👩🏻‍💻 My name is __Vanessa Navegante Forin__, but you can call me __StarChan__ <br>
 👩🏻 My prounus are *She/Her* <br>
-🏠 Live in Brazil
+🏠 Live in Brazil <br>
 📚 A student of Systems Analysis and Development at Uninter <br>
 💜 My hoobies: playing videogames, reading, writing and drawing <br>
 
