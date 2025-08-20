@@ -1,7 +1,7 @@
 ### *"Hello There!"* 👋 <br>
 
 🇧🇷 | 🇺🇸
-### __Bem-vindo(a) ao meu Perfil do GitHub!__ 😄 | ### __Welcome to my GitHub Profile!__ 😄 <br>
+### __Bem-vindo(a) ao meu Perfil do GitHub!__ 😄 | __Welcome to my GitHub Profile!__ 😄 <br>
 
 👩🏻‍💻 Meu nome é __Vanessa Navegante Forin__ | My name is __Vanessa Navegante Forin__ <br>
 👩🏻 Meus pronomes são *She/Her* | My prounus are *She/Her* <br>
